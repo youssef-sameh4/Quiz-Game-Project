@@ -1,26 +1,23 @@
-# 🎮 Quiz Game Project
+# 🎯 Quiz Game Project
 
-A simple **C# console application** that allows players to answer quiz questions and get their score.
-
----
-
-## 📌 Features
-- 📝 Console-based quiz game  
-- ✅ Multiple questions with choices  
-- 📊 Shows score at the end  
+A simple and fun **C# console application** where players answer multiple-choice questions and receive a score at the end.  
+This project was created to practice **C# programming, problem solving, and project structure**.
 
 ---
 
-## 🛠️ Technologies Used
-- **C# .NET Console Application**
+## 🚀 Features
+- 🖥️ Console-based interactive quiz
+- 🎲 Multiple-choice questions
+- 📊 Score tracking and result display
+- ⚡ Lightweight & beginner-friendly
 
 ---
 
-## 🚀 How to Run
+## 🛠️ Built With
+- **C#**
+- **.NET Console Application**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/youssef-sameh4/Quiz-Game-Project.git
-   cd Quiz-Game-Project
+---
 
+## 📂 Project Structure
 
