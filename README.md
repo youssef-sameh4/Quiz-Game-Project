@@ -1,28 +1,26 @@
 # 🎮 Quiz Game Project
 
-A simple console-based **Quiz Game** written in C++ where players can test their knowledge by answering multiple-choice questions.
+A simple **C# console application** that allows players to answer quiz questions and get their score.
 
 ---
 
 ## 📌 Features
-- 📝 Multiple-choice questions  
-- ✅ Score tracking  
-- 🔁 Ability to replay the quiz  
-- ⚡ Fast and lightweight (console-based)  
+- 📝 Console-based quiz game  
+- ✅ Multiple questions with choices  
+- 📊 Shows score at the end  
 
 ---
 
 ## 🛠️ Technologies Used
-- **C++** (Core language)
-- **OOP concepts** (Classes & Objects)
-- **File handling** (to store or load questions/scores)
+- **C# .NET Console Application**
 
 ---
 
-## 🚀 Getting Started
+## 🚀 How to Run
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/youssef-sameh4/Quiz-Game-Project.git
-cd Quiz-Game-Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/youssef-sameh4/Quiz-Game-Project.git
+   cd Quiz-Game-Project
+
 
